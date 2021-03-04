@@ -36,5 +36,13 @@ tidy up
 ## specific
 ## vague
 
+# fool
+folly
+## dull
+## ignorant
+ignorance
 
+# a lot
+## a sheer number of 
+a great number of
 
