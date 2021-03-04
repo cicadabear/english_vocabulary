@@ -11,3 +11,30 @@ Seasonal flu is a huge killer and you've probably seen the numbers, it makes the
 ## effect
 ## implicate 
 implication
+
+# lie
+## fraud  
+## deceive  
+deceptive deception
+
+# stop
+## inhibit
+
+# a lot
+sheer 
+
+# union 
+unify unity 
+## association
+associate
+### dissociation
+dissociate
+
+# clear
+## tidy
+tidy up
+## specific
+## vague
+
+
+
