@@ -50,3 +50,7 @@ a great number of
 ## conceal
 concealed concealment
 
+# hug
+## cuddle
+## embrace
+
